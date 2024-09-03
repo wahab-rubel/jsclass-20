@@ -1,10 +1,10 @@
 // primitives
-// const age = 31;
-// const school = 'hatishal';
-// const isPassed = false;
-// let isDevelopment;
+const age = 31;
+const school = 'hatsful';
+const isPassed = false;
+let isDevelopment;
 
-// const subject = ['bangla', 'english', 'physics', 'Math']
+const subject = ['bangle', 'english', 'physics', 'Math']
 
 
 
@@ -18,13 +18,13 @@ const  bottle = {
 }
 
 // none primitive
-const subject = {
-  name: 'bilogy',
+const subjects = {
+  name: 'biology',
   teacher: 'wahab rubel',
-  examData: '30Aplril',
-  chapers: ['first', 'second', 'third', 'fourth', 'fifth'],
-  exames:{
-    name: 'Finals Exame',
-    marks: 100,
+  examData: '30 April',
+  capers: ['first', 'second', 'third', 'fourth', 'fifth'],
+  exams:{
+  name: 'Finals Exam',
+  marks: 100,
   }
 }

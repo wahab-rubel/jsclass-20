@@ -3,7 +3,7 @@ const computer = {
   price: 35000,
   processor: 'intel',
   hdd: '512gb',
-  monotor: 'msi',
+  monitor: 'msi',
 }
 const key = Object.keys(computer);
 console.log(key);
